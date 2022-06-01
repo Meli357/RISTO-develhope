@@ -1,10 +1,13 @@
 RISTO Develhope
 
 Menù Carne
+Antipasti
 
 Menù pesce
+Antipasti
 
 Menù vegano
+Antipasti
 
 Bevande
 vino

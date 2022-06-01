@@ -3,14 +3,12 @@ RISTO Develhope
 Menù Carne
 Antipasti
 Primi Piatti
-
 Secondi Piatti
 Dolci
 
 Menù pesce
 Antipasti
 Primi Piatti
-
 Secondi Piatti
 Dolci
 
@@ -18,7 +16,6 @@ Dolci
 Menù vegano
 Antipasti
 Primi Piatti
-
 Secondi Piatti
 Dolci
 

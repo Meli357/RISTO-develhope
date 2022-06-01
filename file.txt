@@ -2,7 +2,11 @@ RISTO Develhope
 
 Menù Carne
 
+Dolci
+
 Menù pesce
+
+Dolci
 
 Menù vegano
 
@@ -10,3 +14,5 @@ Bevande
 vino
 acqua
 birra
+
+Dolci

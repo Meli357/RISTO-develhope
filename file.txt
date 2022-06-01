@@ -12,14 +12,15 @@ Antipasti
 Secondi Piatti
 Dolci
 
+
 Menù vegano
 Antipasti
 
 Secondi Piatti
+Dolci
 
 Bevande
 vino
 acqua
 birra
 
-Dolci

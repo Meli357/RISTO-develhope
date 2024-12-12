@@ -4,6 +4,10 @@ Menù Carne
 Antipasti
 Primi Piatti
 Secondi Piatti
+
+Contorni
+Insalata
+
 Dolci
 
 Menù pesce
